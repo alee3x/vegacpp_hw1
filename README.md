@@ -1,6 +1,6 @@
 # Doxygen documentation link
 
-https://alexsacharow.github.io/vegacpp_hw1/
+https://ogswag.github.io/vegacpp_hw1/
 
 
 # Домашнее задание 1
